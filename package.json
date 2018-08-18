@@ -1,0 +1,19 @@
+{
+  "name": "firstapi",
+  "version": "1.0.0",
+  "description": "api test",
+  "main": "index.js",
+  "scripts": {
+    "test": "testindex",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  }
+}

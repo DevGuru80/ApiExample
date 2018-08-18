@@ -1,0 +1,60 @@
+{
+    "models": [
+      {
+        "id": 1,
+        "name": "Toyota"
+      },
+      {
+        "id": 2,
+        "name": "Mazda"
+      }
+    ],
+    "colors":[
+      {
+        "id":1,
+        "name":"white",
+        "carsId":1
+      }
+    ],
+    "cars": [
+      {
+        "id": 1,
+        "name": "Corolla",
+        "modelId": 1
+      },
+      {
+        "id": 2,
+        "name": "Rav4",
+        "modelId": 1
+      }, {
+        "id": 1,
+        "name": "CX 5",
+        "modelId": 2
+      },
+      {
+        "id": 2,
+        "name": "Mazda3",
+        "modelId": 2
+      },
+      {
+        "id": 3,
+        "name": "Mazda6",
+        "modelId": 2
+      },
+      {
+        "id": 4,
+        "name": "Miata",
+        "modelId": 2
+      },
+      {
+        "id": 5,
+        "name": "Camry",
+        "modelId": 1
+      },
+      {
+        "id": 5,
+        "name": "CX-9",
+        "modelId": 2
+      }
+    ]
+  }
